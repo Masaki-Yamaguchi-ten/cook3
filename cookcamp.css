@@ -143,11 +143,10 @@ input::placeholder{
  #left p{
      font-weight: bold;
      margin: 0 auto;
-     
      color: #fff;
      text-align: center;
      padding-top: 12px;
-     width: 150px;
+     line-height: 10px;
  }
 
  #left p span{
@@ -223,6 +222,7 @@ input::placeholder{
     color: #fff;
     line-height: 11px;
     padding-top: 12px;
+    margin-left: 5px;
     
 }
 
